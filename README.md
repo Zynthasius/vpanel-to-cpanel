@@ -2,6 +2,10 @@
 Wanna have a cPanel experience in vPanel(myownfreehost.net)? You have come to the right place.<br>
 ⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!** <br>
 <hr>
+
+````Then why do you share this repository to public?````
+
+<hr>
 This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.<br>
 Steps > <br>
 1. Go fork my <a href="https://repl.it/@soundarrr/cpanel">repl.</a>(Changing the scripts in iFastnet panel takes a long time, so a small easy alternative).<br>
